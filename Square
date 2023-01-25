@@ -1,0 +1,7 @@
+def square(x):
+    y = x**2
+    return y
+def main():
+    x = int(input("Enter a number you want to square:"))
+    print(square(x))
+main()

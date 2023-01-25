@@ -1,8 +1,8 @@
 List of completed problems
 
-1.
-2.
-3.
+1.square.py
+2.areaofcircle.py
+3. fundraiser.py
 4.
 5.
 6.
