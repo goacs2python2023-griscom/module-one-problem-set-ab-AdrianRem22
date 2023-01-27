@@ -6,5 +6,5 @@ def main():
     ticket_count = int(input("How many tickets were sold:"))
     ticket_cost = 5
     revenue = (ticket_count * int(ticket_cost))
-    print("Money raised" + int(profit(revenue)))
+    print("Money raised: " + str(profit(revenue)) + "$")
 main()
