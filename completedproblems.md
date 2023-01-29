@@ -5,7 +5,7 @@ List of completed problems
 3.fundraiser.py
 4.tipcalculator.py
 5.busses.py
-6.
-7.
-8.
+6.twodice.py
+7.earlierdate.py
+8.roadtrip.py
  
