@@ -1,10 +1,11 @@
 List of completed problems
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1.square.py
+2.areaofcircle.py
+3.fundraiser.py
+4.tipcalculator.py
+5.busses.py
+6.twodice.py
+7.earlierdate.py
+8.roadtrip.py
+ 
